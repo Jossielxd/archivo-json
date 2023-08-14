@@ -81,28 +81,29 @@
     "id": 12,
     "title": "",
     "url":"",
-    "description": ""
+    "description": "",
+    "category": "Música electronica"
   },
   {
     "id": 13,
     "title": "",
     "url":"",
     "description": "",
-    "category": ""
+    "category": "Música electronica"
   },
   {
     "id": 14,
     "title": "",
     "url":"",
     "description": "",
-    "category": ""
+    "category": "Música electronica"
   },
   {
     "id": 15,
     "title": "",
     "url":"",
     "description": "",
-    "category": ""
+    "category": "Música electronica"
   }
     ,
   {
@@ -110,7 +111,7 @@
     "title": "",
     "url":"",
     "description": "",
-    "category": ""
+    "category": "Música electronica"
   }
     ,
   {
@@ -118,7 +119,7 @@
     "title": "",
     "url":"",
     "description": "",
-    "category": ""
+    "category": "Música electronica"
   }
 ],
 "profile":{
