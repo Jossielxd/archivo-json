@@ -4,113 +4,121 @@
     "id": 1,
     "title": "Chopin - Nocturne op.9 No.2",
     "url":"https://youtu.be/9E6b3swbnWg",
-    "description": "",
-    "category": "Musica Clasica",
-    "image": "https://cdn.pixabay.com/photo/2018/09/25/18/54/rose-3702838_640.jpg"  
+    "description": "En esta categoria musical se encuentra música clásica que es una corriente musical basada principalmente en música producida o derivada de las tradiciones de la música litúrgica. Donde se podran apreciar piezas musicales producidas por Mozart, Beethoven, entre otros famosos.",
+    "category": "Música Clásica"
   },
   {
     "id": 2,
     "title": "Mozart - Turkish March - Marcha Turca",
     "url":"https://youtu.be/rrk-zuuc77U",
-    "description": "",
-    "category": "Musica Clasica",
-    "image": "https://cdn.pixabay.com/photo/2017/06/17/14/10/violin-2412357_640.jpg"  
+    "description": "En esta categoria musical se encuentra música clásica que es una corriente musical basada principalmente en música producida o derivada de las tradiciones de la música litúrgica. Donde se podran apreciar piezas musicales producidas por Mozart, Beethoven, entre otros famosos.",
+    "category": "Musica Clasica"
   },
   {
     "id": 3,
     "title": "Mozart Symphony #40 in G Minor, K 550 - 1. Molto Allegro",
     "url":"https://youtu.be/-hJf4ZffkoI",
-    "description": "",
-    "category": "Musica Clasica",
-    "image": "https://cdn.pixabay.com/photo/2017/06/17/14/10/violin-2412357_640.jpg"  
+    "description": "En esta categoria musical se encuentra música clásica que es una corriente musical basada principalmente en música producida o derivada de las tradiciones de la música litúrgica. Donde se podran apreciar piezas musicales producidas por Mozart, Beethoven, entre otros famosos.",
+    "category": "Musica Clasica"
   },
   {
     "id": 4,
     "title": "Sinfonía No. 5 en C menor Opus 67. Allegro con brio",
     "url":"https://youtu.be/Up5yUwpROTU",
-    "description": "",
-    "category": "Musica Clasica",
-    "image": "https://cdn.pixabay.com/photo/2016/03/31/19/59/beethoven-1295440_1280.png"  
+    "description": "En esta categoria musical se encuentra música clásica que es una corriente musical basada principalmente en música producida o derivada de las tradiciones de la música litúrgica. Donde se podran apreciar piezas musicales producidas por Mozart, Beethoven, entre otros famosos.",
+    "category": "Musica Clasica"
   },
   {
     "id": 5,
     "title": "fur elise (Ludwig van Beethoven)",
     "url":"https://youtu.be/3cvmONlV5WU",
-    "description": "",
+    "description": "En esta categoria musical se encuentra música clásica que es una corriente musical basada principalmente en música producida o derivada de las tradiciones de la música litúrgica. Donde se podran apreciar piezas musicales producidas por Mozart, Beethoven, entre otros famosos.",
     "category": "Musica Clasica",
-    "image": "https://cdn.pixabay.com/photo/2016/03/31/19/59/beethoven-1295440_1280.png"  
   },
   {
     "id": 6,
     "title": "Ludwig van Beethoven - Symphony No 7 In A Major - 2nd Movement - Allegretto",
     "url":"https://youtu.be/K_aXXMdzslU",
-    "description": "",
-    "category": "Musica Clasica",
-    "image": "https://cdn.pixabay.com/photo/2016/03/31/19/59/beethoven-1295440_1280.png"  
+    "description": "En esta categoria musical se encuentra música clásica que es una corriente musical basada principalmente en música producida o derivada de las tradiciones de la música litúrgca. Donde se podran apreciar piezas musicales producidas por Mozart, Beethoven, entre otros famosos.",
+    "category": "Musica Clasica"
   },
   {
     "id": 7,
-    "title": "",
-    "url":"",
-    "description": "",
-    "category": "",
-    "image": ""  
+    "title": "Yandel, Feid - Yandel 150 (Video Oficial)",
+    "url":"https://youtu.be/WHejvUhX6rk",
+    "description": "Esta categoria musical es de un género muy popular en la dédacas del 2000 y 2010. Siendo un genero que cada vez es más escuchado por más personas alrrededor de todo el mundo.",
+    "category": "Música Reggaeton"
   },
   {
     "id": 8,
-    "title": "",
-    "url":"",
-    "description": "",
-    "category": "",
-    "image": ""  
+    "title": "LOKERA - Rauw Alejandro x Lyanno x Brray (Official Video)",
+    "url":"https://youtu.be/0JeughwzfR0",
+    "description": "Esta categoria musical es de un género muy popular en la dédacas del 2000 y 2010. Siendo un genero que cada vez es más escuchado por más personas alrrededor de todo el mundo.",
+    "category": "Música Reggaeton"
   },
   {
     "id": 9,
-    "title": "",
-    "url":"",
-    "description": "",
-    "category": "",
-    "image": ""  
+    "title": "Sky Rompiendo, Feid, Myke Towers - El Cielo (Official Video)",
+    "url":"https://youtu.be/xCZuaSSL7Ws",
+    "description": "Esta categoria musical es de un género muy popular en la dédacas del 2000 y 2010. Siendo un genero que cada vez es más escuchado por más personas alrrededor de todo el mundo.",
+    "category": "Música Reggaeton"
   },
   {
     "id": 10,
-    "title": "",
-    "url":"",
-    "description": "",
-    "category": "",
-    "image": ""  
+    "title": "Yng Lvcas & Peso Pluma - La Bebe (Remix) [Video Oficial]",
+    "url":"https://youtu.be/3mchJ-EW9rM",
+    "description": "Esta categoria musical es de un género muy popular en la dédacas del 2000 y 2010. Siendo un genero que cada vez es más escuchado por más personas alrrededor de todo el mundo.",
+    "category": "Música Reggaeton",
   },
   {
     "id": 11,
-    "title": "",
-    "url":"",
-    "description": "",
-    "category": "",
-    "image": ""  
+    "title": "LiL CaKe, Ozuna, Ryan Castro, Migrantes - MERCHO REMIX (Official Video)",
+    "url":"https://youtu.be/_46UuQ_JoR4",
+    "description": "Esta categoria musical es de un género muy popular en la dédacas del 2000 y 2010. Siendo un genero que cada vez es más escuchado por más personas alrrededor de todo el mundo.",
+    "category": "Música Reggaeton",
   },
   {
     "id": 12,
     "title": "",
     "url":"",
-    "description": "",
-    "category": "",
-    "image": ""  
+    "description": ""
   },
   {
     "id": 13,
     "title": "",
     "url":"",
     "description": "",
-    "category": "",
-    "image": ""  
+    "category": ""
   },
   {
     "id": 14,
     "title": "",
     "url":"",
     "description": "",
-    "category": "",
-    "image": ""  
+    "category": ""
+  },
+  {
+    "id": 15,
+    "title": "",
+    "url":"",
+    "description": "",
+    "category": ""
+  }
+    ,
+  {
+    "id": 16,
+    "title": "",
+    "url":"",
+    "description": "",
+    "category": ""
+  }
+    ,
+  {
+    "id": 17,
+    "title": "",
+    "url":"",
+    "description": "",
+    "category": ""
   }
 ],
 "profile":{
