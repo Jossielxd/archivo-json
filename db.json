@@ -98,7 +98,7 @@
     },
     {
       "id": "description",
-      "category":{
+      "categorys":{
         "clásica":"La música clásica es un género musical que se basa en composiciones artísticas y académicas que se originaron en Europa durante los períodos barroco, clásico y romántico. Se caracteriza por su enfoque en la instrumentación orquestal y la composición estructurada. Utiliza una variedad de instrumentos y formas musicales, como sinfonías, sonatas y óperas, para expresar una amplia gama de emociones y narrativas.",
         "reguetón":"El reguetón es un género musical urbano originado en Puerto Rico que combina elementos de reggae, dancehall y hip-hop. Se caracteriza por sus ritmos contagiosos, líneas de bajo prominentes y letras que a menudo abordan temas de fiesta, amor, deseo y estilo de vida. Es conocido por su fusión de voces rítmicas y pegajosas con producciones electrónicas, y ha ganado popularidad a nivel mundial debido a su energía.",
         "electrónica":"La música electrónica es un género musical que se compone y produce principalmente utilizando dispositivos electrónicos y tecnología de computacional. Se caracteriza por sus ritmos y sonidos sintéticos, y abarca una amplia gama de subgéneros, desde el ambient y el trance hasta el techno y el dubstep. Es conocido por su innovación sonora y su capacidad para crear paisajes sonoros únicos y envolvente."
